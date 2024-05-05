@@ -1,0 +1,1 @@
+### My Mini Dictonary Project of fetching API using promise(.then and .catch)###
